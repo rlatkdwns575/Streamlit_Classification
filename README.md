@@ -45,4 +45,9 @@ Streamlit_Classification/
 │  ├─ README.md
 │  ├─ app.py
 │  └─ requirements.txt
+├─ number_classify/
+│  ├─ README.md
+│  ├─ app.py
+│  ├─ mnist_cnn.pt
+│  └─ requirements.txt
 └─ LICENSE
